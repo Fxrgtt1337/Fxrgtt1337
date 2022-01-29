@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, Bem vindo ao meu perfil do github. **🎈**
 
-<!--
-**Fxrgtt1337/Fxrgtt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fxrgtt1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fxrgtt1337&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Linguagens que eu tenho conhecimento.
+<div style="display: inline_block"><br/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O Sistema operacional que eu uso.
+<div style="display: inline_block"><br/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
